@@ -9,7 +9,7 @@
 ## Flowchart luas dan keliling lingkaran
 
 
-![image](img/Flowchart.jpg)
+![image](img/Flowchart.jpg)https://github.com/muammarM/Pratikum3/blob/master/img/luas-keliling%20lingkaran.JPG?raw=true
 
 
 ## Kode menghitung luas dan keliling lingkaran menggunakan python
